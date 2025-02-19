@@ -1,4 +1,5 @@
-<center><video width="400" src="assets/demo.mov" title="crop demo"></video> </center>
+https://github.com/user-attachments/assets/2fb4bbc0-e15c-4589-baae-7b4d1fdb4fe7
+
 
 ### **Task: Create a Crop Image Screen**
 
@@ -112,7 +113,7 @@ Develop an Android application with **two screens**:
 
 1. **Deliverables**
 
-   - Submit the complete source code via a GitHub repository.
+   - Submit the complete source code via a GitHub repository (Don't mention Andalusi in your repo name or description).
    - Include a README file explaining the project structure, dependencies, and instructions for running the application.
 
 2. **Evaluation Criteria**
@@ -126,3 +127,4 @@ Develop an Android application with **two screens**:
    - Candidates should complete the task within 2 weeks, submitting earlier is a bonus.
 
 ---
+
