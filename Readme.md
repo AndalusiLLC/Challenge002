@@ -5,10 +5,12 @@ https://github.com/user-attachments/assets/2fb4bbc0-e15c-4589-baae-7b4d1fdb4fe7
 
 #### **Objective**
 
-Develop an Android application with **two screens**:
+Develop an Android application using Kotlin & Jetpack Compose or Kotlin Multiplatform (Bonus)
+
+with **two screens**:
 
 1. A main screen where users can select an image from the gallery, preview it, and initiate cropping.
-2. A crop screen where users can adjust the crop area, apply changes, or cancel.
+2. A crop screen where users can adjust the crop area, apply changes, or cancel (rotation is not required).
 
 ---
 
@@ -113,7 +115,7 @@ Develop an Android application with **two screens**:
 
 1. **Deliverables**
 
-   - Submit the complete source code via a GitHub repository (Don't mention Andalusi in your repo name or description).
+   - Invite us to your __private GitHub repository__.
    - Include a README file explaining the project structure, dependencies, and instructions for running the application.
 
 2. **Evaluation Criteria**
